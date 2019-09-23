@@ -1,0 +1,1 @@
+npx vue-cli-service build --target wc  --name my-button src/my-button.vue
